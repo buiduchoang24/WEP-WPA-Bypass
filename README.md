@@ -1,19 +1,7 @@
 # WEP_WPA_Bypass
-<br>
-          <b>BÁO CÁO BÀI TẬP</b><br>
-- Môn học: An toàn Mạng không dây và di động<br>
-- Kỳ báo cáo: Buổi 03 (Session 03)<br>
-- Tên chủ đề: VƯỢT QUA XÁC THỰC MẠNG WLAN<br>
-- Bypassing WLAN Authentication<br>
-- GV: Lê Đức Thịnh<br>
-- Ngày báo cáo: 24/4/2023<br>
-- Nhóm: 802.11<br>
-- Lớp: NT330.N21.ANTT.1<br>
-  - 20521047	20521047@gm.uit.edu.vn <br>
-  - 20520514	20520514@gm.uit.edu.vn <br>
   
-<h1>Tested on TL-WR841N & ParrotOS because my Kali Linux do not support monitor mode on TL-WN725N USB Wifi, so I use Parrot, and wlan0 is replaced by <i>wlx9ca2f4fd78ac</i>
-<h1>
+Tested on TL-WR841N & ParrotOS because my Kali Linux do not support monitor mode on TL-WN725N USB Wifi, so I use Parrot, and wlan0 is replaced by <i>wlx9ca2f4fd78ac</i>
+
 
 - All commands that I used
   - To see wireless interface, use `iwconfig`
